@@ -1,9 +1,9 @@
 @font-face {
-    font-family: first-font;
-    src: url(./NeueMontreal-Medium.otf);
+    font-family: dana-font;
+    src: url(./Dana-Medium.ttf);
 }
 
 @font-face {
-    font-family:second-font ;
-    src: url(./IndieFlower-Regular.ttf);
+    font-family:ray-font ;
+    src: url(./RAY-EXTRABOLD.TTF);
 }

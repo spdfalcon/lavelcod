@@ -3,14 +3,19 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     fontFamily:{
-      'first-font':['first-font'],
-      'second-font':['second-font']
+      'dana-font':['dana-font'],
+      'ray-font':['ray-font']
     },
     extend: {
       colors:{
-        'main-yellow' : '#FFE381',
-        'main-text' : '#222222',
-        'main-menu' : '#C1CFD2'
+        'main-blue' : '#3431CE',
+        'footer-blue' : '#3500AA',
+        'slider-blue' : '#5956E9',
+        'main-text-dark' : '#292D32',
+        'main-text-gray' : '#474C52',
+        'main-text-white' : '#fff',
+        'main-bg-input' : '#F9F9F9',
+
       }
     },
   },

@@ -1,4 +1,4 @@
-import Index from "./pages/Index/Home"
+import Index from "./pages/Home/Home"
 import OurExpertise from "./pages/OurExpertise/OurExpertise"
 import OurProfession from "./pages/OurProfession/OurProfession"
 import Candidates from "./pages/Candidates/Candidates"

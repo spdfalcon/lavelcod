@@ -21,7 +21,7 @@ export default function Portfolio() {
 
 
 
-      <div className='dawn bg-white flex px-10 flex-col py-10 rounded-[30px]'>
+      <div className='dawn bg-white flex px-10 flex-col py-20 rounded-[30px]'>
         <div className='up flex justify-center w-full'>
           <div className='m flex-1'>
             <div className='flex flex-col items-center'>
@@ -30,7 +30,7 @@ export default function Portfolio() {
             </div>
           </div>
           <div className='l'>
-            <BtnRounded bg={true} title={`نمونه کار طراحی اپلیکیشن`}></BtnRounded>
+            <BtnRounded icon={'arrow'} bg={true} title={`نمونه کار طراحی اپلیکیشن`}></BtnRounded>
           </div>
         </div>
 

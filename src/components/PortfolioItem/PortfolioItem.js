@@ -9,8 +9,8 @@ export default function PortfolioItem({ img1, img2, img3 }) {
                 <div className='z-10'><img src={img2} /></div>
                 <div className='translate-x-5'><img src={img3} /></div>
             </div>
-            <div className='w-40'>
-            <BtnRounded bg={false} title={`مشاهده`}></BtnRounded>
+            <div className='w-40 text-main-text-dark'>
+                <BtnRounded bg={false} title={`مشاهده`} icon={'glass'}></BtnRounded>
             </div>
         </div>
     )

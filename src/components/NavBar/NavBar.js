@@ -48,7 +48,7 @@ export default function NavBar() {
           <div className="flex">
             <p className=""> تماس با ما</p>
             <svg
-            className=" opacity-75 w-5"
+              className=" opacity-75 w-5"
               width="24"
               height="24"
               viewBox="0 0 24 24"
@@ -64,7 +64,7 @@ export default function NavBar() {
           <div className="flex">
             <p className=""> درباره ما</p>
             <svg
-            className="w-5"
+              className="w-5"
               width="24"
               height="24"
               viewBox="0 0 24 24"
@@ -88,7 +88,7 @@ export default function NavBar() {
           <div className="flex">
             <p className=""> نمونه کار ها</p>
             <svg
-            className="w-4"
+              className="w-4"
               width="24"
               height="24"
               viewBox="0 0 24 24"
@@ -108,7 +108,7 @@ export default function NavBar() {
           <div className="flex">
             <p className="text-footer-blue">صفحه اصلی</p>
             <svg
-            className="w-5 text-footer-blue"
+              className="w-5 text-footer-blue"
               width="24"
               height="24"
               viewBox="0 0 24 24"

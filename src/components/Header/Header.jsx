@@ -1,9 +1,12 @@
 import React from "react";
 import "./Header.css";
-
+import NavBar from '../NavBar/NavBar'
 export default function Header() {
   return (
     <div className="w-full h-auto relative flex justify-center ">
+      <div className="fixed z-10 top-4">
+        <NavBar></NavBar>
+      </div>
       <img
         className="w-full h-auto object-cover"
         src="/images/main/bg-header.png"

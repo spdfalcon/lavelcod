@@ -4,7 +4,7 @@ import NavBar from '../NavBar/NavBar'
 export default function Header() {
   return (
     <div className="w-full h-auto relative flex justify-center ">
-      <div className="fixed z-10 top-4">
+      <div className="fixed z-10 top-4 w-full px-20">
         <NavBar></NavBar>
       </div>
       <img
